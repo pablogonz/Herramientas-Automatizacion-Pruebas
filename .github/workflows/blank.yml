@@ -1,0 +1,22 @@
+name: proyecto-finalito
+
+on: [push]
+
+jobs:
+  build:
+    
+    runs-on: ubuntu-latest
+    
+    
+    steps:
+     - uses: actions/checkout@v1
+     - name: Setup .Net Core
+       uses: actions/setup-dotnet@1
+       with:
+        dotnet-version: 4.7.2
+     - name: Build with dotnet
+       working-directory: ./Calificaciones Universitarias
+       run: dotnet build --configuration Release
+     - name: Run Tests
+       working-directory: ./Calificaciones UnversitariasTests
+       run: dotnet test
