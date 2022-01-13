@@ -1,0 +1,181 @@
+C:\Users\Migue\source\repos\Calificaciones Universitarias\bin\Debug\Calificaciones Universitarias.exe.config
+C:\Users\Migue\source\repos\Calificaciones Universitarias\bin\Debug\Calificaciones Universitarias.exe
+C:\Users\Migue\source\repos\Calificaciones Universitarias\bin\Debug\Calificaciones Universitarias.pdb
+C:\Users\Migue\source\repos\Calificaciones Universitarias\obj\Debug\Calificaciones Universitarias.csprojAssemblyReference.cache
+C:\Users\Migue\source\repos\Calificaciones Universitarias\obj\Debug\Calificaciones_Universitarias.Form1.resources
+C:\Users\Migue\source\repos\Calificaciones Universitarias\obj\Debug\Calificaciones_Universitarias.Properties.Resources.resources
+C:\Users\Migue\source\repos\Calificaciones Universitarias\obj\Debug\Calificaciones Universitarias.csproj.GenerateResource.cache
+C:\Users\Migue\source\repos\Calificaciones Universitarias\obj\Debug\Calificaciones Universitarias.csproj.CoreCompileInputs.cache
+C:\Users\Migue\source\repos\Calificaciones Universitarias\obj\Debug\Calificaciones Universitarias.exe
+C:\Users\Migue\source\repos\Calificaciones Universitarias\obj\Debug\Calificaciones Universitarias.pdb
+C:\Users\Migue\source\repos\Calificaciones Universitarias\bin\Debug\Form1.resx
+C:\Users\Migue\source\repos\Calificaciones Universitarias\bin\Debug\Form1.cs
+C:\Users\Migue\source\repos\Calificaciones Universitarias\bin\Debug\Form1.Designer.cs
+C:\Users\Migue\source\repos\Calificaciones Universitarias\obj\Debug\Calificaciones_Universitarias.Form2.resources
+C:\Users\pablo\source\repos\Hokages-proyecto-diseno\Calificaciones Universitarias\bin\Debug\Form1.resx
+C:\Users\pablo\source\repos\Hokages-proyecto-diseno\Calificaciones Universitarias\bin\Debug\Form1.cs
+C:\Users\pablo\source\repos\Hokages-proyecto-diseno\Calificaciones Universitarias\bin\Debug\Form1.Designer.cs
+C:\Users\pablo\source\repos\Hokages-proyecto-diseno\Calificaciones Universitarias\bin\Debug\Calificaciones Universitarias.exe.config
+C:\Users\pablo\source\repos\Hokages-proyecto-diseno\Calificaciones Universitarias\bin\Debug\Calificaciones Universitarias.exe
+C:\Users\pablo\source\repos\Hokages-proyecto-diseno\Calificaciones Universitarias\bin\Debug\Calificaciones Universitarias.pdb
+C:\Users\pablo\source\repos\Hokages-proyecto-diseno\Calificaciones Universitarias\obj\Debug\Calificaciones Universitarias.csprojAssemblyReference.cache
+C:\Users\pablo\source\repos\Hokages-proyecto-diseno\Calificaciones Universitarias\obj\Debug\Calificaciones_Universitarias.Form1.resources
+C:\Users\pablo\source\repos\Hokages-proyecto-diseno\Calificaciones Universitarias\obj\Debug\Calificaciones_Universitarias.Form2.resources
+C:\Users\pablo\source\repos\Hokages-proyecto-diseno\Calificaciones Universitarias\obj\Debug\Calificaciones_Universitarias.Properties.Resources.resources
+C:\Users\pablo\source\repos\Hokages-proyecto-diseno\Calificaciones Universitarias\obj\Debug\Calificaciones Universitarias.csproj.GenerateResource.cache
+C:\Users\pablo\source\repos\Hokages-proyecto-diseno\Calificaciones Universitarias\obj\Debug\Calificaciones Universitarias.csproj.CoreCompileInputs.cache
+C:\Users\pablo\source\repos\Hokages-proyecto-diseno\Calificaciones Universitarias\obj\Debug\Calificaciones Universitarias.exe
+C:\Users\pablo\source\repos\Hokages-proyecto-diseno\Calificaciones Universitarias\obj\Debug\Calificaciones Universitarias.pdb
+C:\Users\Samuel\Hokages\Los 5 Kage\Calificaciones Universitarias\obj\Debug\Calificaciones Universitarias.csprojAssemblyReference.cache
+C:\Users\Samuel\Hokages\Los 5 Kage\Calificaciones Universitarias\obj\Debug\Calificaciones_Universitarias.Form1.resources
+C:\Users\Samuel\Hokages\Los 5 Kage\Calificaciones Universitarias\obj\Debug\Calificaciones_Universitarias.Form2.resources
+C:\Users\Samuel\Hokages\Los 5 Kage\Calificaciones Universitarias\obj\Debug\Calificaciones_Universitarias.Properties.Resources.resources
+C:\Users\Samuel\Hokages\Los 5 Kage\Calificaciones Universitarias\obj\Debug\Calificaciones Universitarias.csproj.GenerateResource.cache
+C:\Users\Samuel\Hokages\Los 5 Kage\Calificaciones Universitarias\obj\Debug\Calificaciones Universitarias.csproj.CoreCompileInputs.cache
+C:\Users\Samuel\Hokages\Los 5 Kage\Calificaciones Universitarias\obj\Debug\Calificaciones Universitarias.exe
+C:\Users\Samuel\Hokages\Los 5 Kage\Calificaciones Universitarias\obj\Debug\Calificaciones Universitarias.pdb
+C:\Users\Samuel\Hokages\Los 5 Kage\Calificaciones Universitarias\bin\Debug\Form1.resx
+C:\Users\Samuel\Hokages\Los 5 Kage\Calificaciones Universitarias\bin\Debug\Form1.cs
+C:\Users\Samuel\Hokages\Los 5 Kage\Calificaciones Universitarias\bin\Debug\Form1.Designer.cs
+C:\Users\Samuel\Hokages\Los 5 Kage\Calificaciones Universitarias\bin\Debug\Calificaciones Universitarias.exe.config
+C:\Users\Samuel\Hokages\Los 5 Kage\Calificaciones Universitarias\bin\Debug\Calificaciones Universitarias.exe
+C:\Users\Samuel\Hokages\Los 5 Kage\Calificaciones Universitarias\bin\Debug\Calificaciones Universitarias.pdb
+C:\Users\Samuel\Hokages\Los 5 Kage\Calificaciones Universitarias\bin\Debug\ClasesCalificaciones.dll
+C:\Users\Samuel\Hokages\Los 5 Kage\Calificaciones Universitarias\bin\Debug\ClasesCalificaciones.pdb
+C:\Users\Samuel\Hokages\Los 5 Kage\Calificaciones Universitarias\obj\Debug\Calificaciones Universitarias.csproj.CopyComplete
+C:\Users\pablo\source\repos\Hokages-proyecto-construccion\Los 5 Kage\Calificaciones Universitarias\bin\Debug\Form1.resx
+C:\Users\pablo\source\repos\Hokages-proyecto-construccion\Los 5 Kage\Calificaciones Universitarias\bin\Debug\Form1.cs
+C:\Users\pablo\source\repos\Hokages-proyecto-construccion\Los 5 Kage\Calificaciones Universitarias\bin\Debug\Form1.Designer.cs
+C:\Users\pablo\source\repos\Hokages-proyecto-construccion\Los 5 Kage\Calificaciones Universitarias\bin\Debug\Calificaciones Universitarias.exe.config
+C:\Users\pablo\source\repos\Hokages-proyecto-construccion\Los 5 Kage\Calificaciones Universitarias\bin\Debug\Calificaciones Universitarias.exe
+C:\Users\pablo\source\repos\Hokages-proyecto-construccion\Los 5 Kage\Calificaciones Universitarias\bin\Debug\Calificaciones Universitarias.pdb
+C:\Users\pablo\source\repos\Hokages-proyecto-construccion\Los 5 Kage\Calificaciones Universitarias\bin\Debug\ClasesCalificaciones.dll
+C:\Users\pablo\source\repos\Hokages-proyecto-construccion\Los 5 Kage\Calificaciones Universitarias\bin\Debug\ClasesCalificaciones.pdb
+C:\Users\pablo\source\repos\Hokages-proyecto-construccion\Los 5 Kage\Calificaciones Universitarias\obj\Debug\Calificaciones Universitarias.csprojAssemblyReference.cache
+C:\Users\pablo\source\repos\Hokages-proyecto-construccion\Los 5 Kage\Calificaciones Universitarias\obj\Debug\Calificaciones_Universitarias.Form1.resources
+C:\Users\pablo\source\repos\Hokages-proyecto-construccion\Los 5 Kage\Calificaciones Universitarias\obj\Debug\Calificaciones_Universitarias.Form2.resources
+C:\Users\pablo\source\repos\Hokages-proyecto-construccion\Los 5 Kage\Calificaciones Universitarias\obj\Debug\Calificaciones_Universitarias.Properties.Resources.resources
+C:\Users\pablo\source\repos\Hokages-proyecto-construccion\Los 5 Kage\Calificaciones Universitarias\obj\Debug\Calificaciones Universitarias.csproj.GenerateResource.cache
+C:\Users\pablo\source\repos\Hokages-proyecto-construccion\Los 5 Kage\Calificaciones Universitarias\obj\Debug\Calificaciones Universitarias.csproj.CoreCompileInputs.cache
+C:\Users\pablo\source\repos\Hokages-proyecto-construccion\Los 5 Kage\Calificaciones Universitarias\obj\Debug\Calificaciones Universitarias.csproj.CopyComplete
+C:\Users\pablo\source\repos\Hokages-proyecto-construccion\Los 5 Kage\Calificaciones Universitarias\obj\Debug\Calificaciones Universitarias.exe
+C:\Users\pablo\source\repos\Hokages-proyecto-construccion\Los 5 Kage\Calificaciones Universitarias\obj\Debug\Calificaciones Universitarias.pdb
+C:\Users\Samuel\Desktop\Los 5 Kage\Calificaciones Universitarias\bin\Debug\Form1.resx
+C:\Users\Samuel\Desktop\Los 5 Kage\Calificaciones Universitarias\bin\Debug\Form1.cs
+C:\Users\Samuel\Desktop\Los 5 Kage\Calificaciones Universitarias\bin\Debug\Form1.Designer.cs
+C:\Users\Samuel\Desktop\Los 5 Kage\Calificaciones Universitarias\bin\Debug\Calificaciones Universitarias.exe.config
+C:\Users\Samuel\Desktop\Los 5 Kage\Calificaciones Universitarias\bin\Debug\Calificaciones Universitarias.exe
+C:\Users\Samuel\Desktop\Los 5 Kage\Calificaciones Universitarias\bin\Debug\Calificaciones Universitarias.pdb
+C:\Users\Samuel\Desktop\Los 5 Kage\Calificaciones Universitarias\bin\Debug\ClasesCalificaciones.dll
+C:\Users\Samuel\Desktop\Los 5 Kage\Calificaciones Universitarias\bin\Debug\ClasesCalificaciones.pdb
+C:\Users\Samuel\Desktop\Los 5 Kage\Calificaciones Universitarias\obj\Debug\Calificaciones Universitarias.csprojAssemblyReference.cache
+C:\Users\Samuel\Desktop\Los 5 Kage\Calificaciones Universitarias\obj\Debug\Calificaciones_Universitarias.Form1.resources
+C:\Users\Samuel\Desktop\Los 5 Kage\Calificaciones Universitarias\obj\Debug\Calificaciones_Universitarias.Form2.resources
+C:\Users\Samuel\Desktop\Los 5 Kage\Calificaciones Universitarias\obj\Debug\Calificaciones_Universitarias.Properties.Resources.resources
+C:\Users\Samuel\Desktop\Los 5 Kage\Calificaciones Universitarias\obj\Debug\Calificaciones Universitarias.csproj.GenerateResource.cache
+C:\Users\Samuel\Desktop\Los 5 Kage\Calificaciones Universitarias\obj\Debug\Calificaciones Universitarias.csproj.CoreCompileInputs.cache
+C:\Users\Samuel\Desktop\Los 5 Kage\Calificaciones Universitarias\obj\Debug\Calificaciones Universitarias.csproj.CopyComplete
+C:\Users\Samuel\Desktop\Los 5 Kage\Calificaciones Universitarias\obj\Debug\Calificaciones Universitarias.exe
+C:\Users\Samuel\Desktop\Los 5 Kage\Calificaciones Universitarias\obj\Debug\Calificaciones Universitarias.pdb
+C:\Users\pablo\source\repos\Los 5 Kage\Calificaciones Universitarias\bin\Debug\Form1.resx
+C:\Users\pablo\source\repos\Los 5 Kage\Calificaciones Universitarias\bin\Debug\Form1.cs
+C:\Users\pablo\source\repos\Los 5 Kage\Calificaciones Universitarias\bin\Debug\Form1.Designer.cs
+C:\Users\pablo\source\repos\Los 5 Kage\Calificaciones Universitarias\bin\Debug\Calificaciones Universitarias.exe.config
+C:\Users\pablo\source\repos\Los 5 Kage\Calificaciones Universitarias\bin\Debug\Calificaciones Universitarias.exe
+C:\Users\pablo\source\repos\Los 5 Kage\Calificaciones Universitarias\bin\Debug\Calificaciones Universitarias.pdb
+C:\Users\pablo\source\repos\Los 5 Kage\Calificaciones Universitarias\bin\Debug\ClasesCalificaciones.dll
+C:\Users\pablo\source\repos\Los 5 Kage\Calificaciones Universitarias\bin\Debug\ClasesCalificaciones.pdb
+C:\Users\pablo\source\repos\Los 5 Kage\Calificaciones Universitarias\obj\Debug\Calificaciones Universitarias.csprojAssemblyReference.cache
+C:\Users\pablo\source\repos\Los 5 Kage\Calificaciones Universitarias\obj\Debug\Calificaciones_Universitarias.Form1.resources
+C:\Users\pablo\source\repos\Los 5 Kage\Calificaciones Universitarias\obj\Debug\Calificaciones_Universitarias.Form2.resources
+C:\Users\pablo\source\repos\Los 5 Kage\Calificaciones Universitarias\obj\Debug\Calificaciones_Universitarias.Properties.Resources.resources
+C:\Users\pablo\source\repos\Los 5 Kage\Calificaciones Universitarias\obj\Debug\Calificaciones Universitarias.csproj.GenerateResource.cache
+C:\Users\pablo\source\repos\Los 5 Kage\Calificaciones Universitarias\obj\Debug\Calificaciones Universitarias.csproj.CoreCompileInputs.cache
+C:\Users\pablo\source\repos\Los 5 Kage\Calificaciones Universitarias\obj\Debug\Calificaciones Universitarias.csproj.CopyComplete
+C:\Users\pablo\source\repos\Los 5 Kage\Calificaciones Universitarias\obj\Debug\Calificaciones Universitarias.exe
+C:\Users\pablo\source\repos\Los 5 Kage\Calificaciones Universitarias\obj\Debug\Calificaciones Universitarias.pdb
+C:\Users\Samuel\Documents\Los 5 Kage version 2 pablo\Calificaciones Universitarias\bin\Debug\Form1.resx
+C:\Users\Samuel\Documents\Los 5 Kage version 2 pablo\Calificaciones Universitarias\bin\Debug\Form1.cs
+C:\Users\Samuel\Documents\Los 5 Kage version 2 pablo\Calificaciones Universitarias\bin\Debug\Form1.Designer.cs
+C:\Users\Samuel\Documents\Los 5 Kage version 2 pablo\Calificaciones Universitarias\bin\Debug\Calificaciones Universitarias.exe.config
+C:\Users\Samuel\Documents\Los 5 Kage version 2 pablo\Calificaciones Universitarias\bin\Debug\Calificaciones Universitarias.exe
+C:\Users\Samuel\Documents\Los 5 Kage version 2 pablo\Calificaciones Universitarias\bin\Debug\Calificaciones Universitarias.pdb
+C:\Users\Samuel\Documents\Los 5 Kage version 2 pablo\Calificaciones Universitarias\bin\Debug\ClasesCalificaciones.dll
+C:\Users\Samuel\Documents\Los 5 Kage version 2 pablo\Calificaciones Universitarias\bin\Debug\ClasesCalificaciones.pdb
+C:\Users\Samuel\Documents\Los 5 Kage version 2 pablo\Calificaciones Universitarias\obj\Debug\Calificaciones Universitarias.csprojAssemblyReference.cache
+C:\Users\Samuel\Documents\Los 5 Kage version 2 pablo\Calificaciones Universitarias\obj\Debug\Calificaciones_Universitarias.Form1.resources
+C:\Users\Samuel\Documents\Los 5 Kage version 2 pablo\Calificaciones Universitarias\obj\Debug\Calificaciones_Universitarias.Form2.resources
+C:\Users\Samuel\Documents\Los 5 Kage version 2 pablo\Calificaciones Universitarias\obj\Debug\Calificaciones_Universitarias.Properties.Resources.resources
+C:\Users\Samuel\Documents\Los 5 Kage version 2 pablo\Calificaciones Universitarias\obj\Debug\Calificaciones Universitarias.csproj.GenerateResource.cache
+C:\Users\Samuel\Documents\Los 5 Kage version 2 pablo\Calificaciones Universitarias\obj\Debug\Calificaciones Universitarias.csproj.CoreCompileInputs.cache
+C:\Users\Samuel\Documents\Los 5 Kage version 2 pablo\Calificaciones Universitarias\obj\Debug\Calificaciones Universitarias.csproj.CopyComplete
+C:\Users\Samuel\Documents\Los 5 Kage version 2 pablo\Calificaciones Universitarias\obj\Debug\Calificaciones Universitarias.exe
+C:\Users\Samuel\Documents\Los 5 Kage version 2 pablo\Calificaciones Universitarias\obj\Debug\Calificaciones Universitarias.pdb
+C:\Users\pjgon\Desktop\Proyecto Finalito\Calificaciones Universitarias\bin\Debug\Form1.resx
+C:\Users\pjgon\Desktop\Proyecto Finalito\Calificaciones Universitarias\bin\Debug\Form1.cs
+C:\Users\pjgon\Desktop\Proyecto Finalito\Calificaciones Universitarias\bin\Debug\Form1.Designer.cs
+C:\Users\pjgon\Desktop\Proyecto Finalito\Calificaciones Universitarias\bin\Debug\Calificaciones Universitarias.exe.config
+C:\Users\pjgon\Desktop\Proyecto Finalito\Calificaciones Universitarias\bin\Debug\Calificaciones Universitarias.exe
+C:\Users\pjgon\Desktop\Proyecto Finalito\Calificaciones Universitarias\bin\Debug\Calificaciones Universitarias.pdb
+C:\Users\pjgon\Desktop\Proyecto Finalito\Calificaciones Universitarias\bin\Debug\ClasesCalificaciones.dll
+C:\Users\pjgon\Desktop\Proyecto Finalito\Calificaciones Universitarias\bin\Debug\ClasesCalificaciones.pdb
+C:\Users\pjgon\Desktop\Proyecto Finalito\Calificaciones Universitarias\obj\Debug\Calificaciones Universitarias.csprojAssemblyReference.cache
+C:\Users\pjgon\Desktop\Proyecto Finalito\Calificaciones Universitarias\obj\Debug\Calificaciones_Universitarias.Form1.resources
+C:\Users\pjgon\Desktop\Proyecto Finalito\Calificaciones Universitarias\obj\Debug\Calificaciones_Universitarias.Form2.resources
+C:\Users\pjgon\Desktop\Proyecto Finalito\Calificaciones Universitarias\obj\Debug\Calificaciones_Universitarias.Properties.Resources.resources
+C:\Users\pjgon\Desktop\Proyecto Finalito\Calificaciones Universitarias\obj\Debug\Calificaciones Universitarias.csproj.GenerateResource.cache
+C:\Users\pjgon\Desktop\Proyecto Finalito\Calificaciones Universitarias\obj\Debug\Calificaciones Universitarias.csproj.CoreCompileInputs.cache
+C:\Users\pjgon\Desktop\Proyecto Finalito\Calificaciones Universitarias\obj\Debug\Calificaciones Universitarias.csproj.CopyComplete
+C:\Users\pjgon\Desktop\Proyecto Finalito\Calificaciones Universitarias\obj\Debug\Calificaciones Universitarias.exe
+C:\Users\pjgon\Desktop\Proyecto Finalito\Calificaciones Universitarias\obj\Debug\Calificaciones Universitarias.pdb
+C:\Users\Samuel\Downloads\Proyecto Finalito\Calificaciones Universitarias\bin\Debug\Form1.resx
+C:\Users\Samuel\Downloads\Proyecto Finalito\Calificaciones Universitarias\bin\Debug\Form1.cs
+C:\Users\Samuel\Downloads\Proyecto Finalito\Calificaciones Universitarias\bin\Debug\Form1.Designer.cs
+C:\Users\Samuel\Downloads\Proyecto Finalito\Calificaciones Universitarias\bin\Debug\Calificaciones Universitarias.exe.config
+C:\Users\Samuel\Downloads\Proyecto Finalito\Calificaciones Universitarias\bin\Debug\Calificaciones Universitarias.exe
+C:\Users\Samuel\Downloads\Proyecto Finalito\Calificaciones Universitarias\bin\Debug\Calificaciones Universitarias.pdb
+C:\Users\Samuel\Downloads\Proyecto Finalito\Calificaciones Universitarias\bin\Debug\ClasesCalificaciones.dll
+C:\Users\Samuel\Downloads\Proyecto Finalito\Calificaciones Universitarias\bin\Debug\ClasesCalificaciones.pdb
+C:\Users\Samuel\Downloads\Proyecto Finalito\Calificaciones Universitarias\obj\Debug\Calificaciones Universitarias.csprojAssemblyReference.cache
+C:\Users\Samuel\Downloads\Proyecto Finalito\Calificaciones Universitarias\obj\Debug\Calificaciones_Universitarias.Form1.resources
+C:\Users\Samuel\Downloads\Proyecto Finalito\Calificaciones Universitarias\obj\Debug\Calificaciones_Universitarias.Form2.resources
+C:\Users\Samuel\Downloads\Proyecto Finalito\Calificaciones Universitarias\obj\Debug\Calificaciones_Universitarias.Properties.Resources.resources
+C:\Users\Samuel\Downloads\Proyecto Finalito\Calificaciones Universitarias\obj\Debug\Calificaciones Universitarias.csproj.GenerateResource.cache
+C:\Users\Samuel\Downloads\Proyecto Finalito\Calificaciones Universitarias\obj\Debug\Calificaciones Universitarias.csproj.CoreCompileInputs.cache
+C:\Users\Samuel\Downloads\Proyecto Finalito\Calificaciones Universitarias\obj\Debug\Calificaciones Universitarias.csproj.CopyComplete
+C:\Users\Samuel\Downloads\Proyecto Finalito\Calificaciones Universitarias\obj\Debug\Calificaciones Universitarias.exe
+C:\Users\Samuel\Downloads\Proyecto Finalito\Calificaciones Universitarias\obj\Debug\Calificaciones Universitarias.pdb
+C:\Users\pablo\Desktop\Proyecto Finalito\Proyecto Finalito\Calificaciones Universitarias\bin\Debug\Form1.resx
+C:\Users\pablo\Desktop\Proyecto Finalito\Proyecto Finalito\Calificaciones Universitarias\bin\Debug\Form1.cs
+C:\Users\pablo\Desktop\Proyecto Finalito\Proyecto Finalito\Calificaciones Universitarias\bin\Debug\Form1.Designer.cs
+C:\Users\pablo\Desktop\Proyecto Finalito\Proyecto Finalito\Calificaciones Universitarias\bin\Debug\Calificaciones Universitarias.exe.config
+C:\Users\pablo\Desktop\Proyecto Finalito\Proyecto Finalito\Calificaciones Universitarias\bin\Debug\Calificaciones Universitarias.exe
+C:\Users\pablo\Desktop\Proyecto Finalito\Proyecto Finalito\Calificaciones Universitarias\bin\Debug\Calificaciones Universitarias.pdb
+C:\Users\pablo\Desktop\Proyecto Finalito\Proyecto Finalito\Calificaciones Universitarias\bin\Debug\ClasesCalificaciones.dll
+C:\Users\pablo\Desktop\Proyecto Finalito\Proyecto Finalito\Calificaciones Universitarias\bin\Debug\ClasesCalificaciones.pdb
+C:\Users\pablo\Desktop\Proyecto Finalito\Proyecto Finalito\Calificaciones Universitarias\obj\Debug\Calificaciones Universitarias.csprojAssemblyReference.cache
+C:\Users\pablo\Desktop\Proyecto Finalito\Proyecto Finalito\Calificaciones Universitarias\obj\Debug\Calificaciones_Universitarias.Form1.resources
+C:\Users\pablo\Desktop\Proyecto Finalito\Proyecto Finalito\Calificaciones Universitarias\obj\Debug\Calificaciones_Universitarias.Form2.resources
+C:\Users\pablo\Desktop\Proyecto Finalito\Proyecto Finalito\Calificaciones Universitarias\obj\Debug\Calificaciones_Universitarias.Properties.Resources.resources
+C:\Users\pablo\Desktop\Proyecto Finalito\Proyecto Finalito\Calificaciones Universitarias\obj\Debug\Calificaciones Universitarias.csproj.GenerateResource.cache
+C:\Users\pablo\Desktop\Proyecto Finalito\Proyecto Finalito\Calificaciones Universitarias\obj\Debug\Calificaciones Universitarias.csproj.CoreCompileInputs.cache
+C:\Users\pablo\Desktop\Proyecto Finalito\Proyecto Finalito\Calificaciones Universitarias\obj\Debug\Calificaciones Universitarias.csproj.CopyComplete
+C:\Users\pablo\Desktop\Proyecto Finalito\Proyecto Finalito\Calificaciones Universitarias\obj\Debug\Calificaciones Universitarias.exe
+C:\Users\pablo\Desktop\Proyecto Finalito\Proyecto Finalito\Calificaciones Universitarias\obj\Debug\Calificaciones Universitarias.pdb
+C:\Users\Samuel\Desktop\Proyecto Finalito\Proyecto Finalito\Calificaciones Universitarias\bin\Debug\Form1.resx
+C:\Users\Samuel\Desktop\Proyecto Finalito\Proyecto Finalito\Calificaciones Universitarias\bin\Debug\Form1.cs
+C:\Users\Samuel\Desktop\Proyecto Finalito\Proyecto Finalito\Calificaciones Universitarias\bin\Debug\Form1.Designer.cs
+C:\Users\Samuel\Desktop\Proyecto Finalito\Proyecto Finalito\Calificaciones Universitarias\bin\Debug\Calificaciones Universitarias.exe.config
+C:\Users\Samuel\Desktop\Proyecto Finalito\Proyecto Finalito\Calificaciones Universitarias\bin\Debug\Calificaciones Universitarias.exe
+C:\Users\Samuel\Desktop\Proyecto Finalito\Proyecto Finalito\Calificaciones Universitarias\bin\Debug\Calificaciones Universitarias.pdb
+C:\Users\Samuel\Desktop\Proyecto Finalito\Proyecto Finalito\Calificaciones Universitarias\bin\Debug\ClasesCalificaciones.dll
+C:\Users\Samuel\Desktop\Proyecto Finalito\Proyecto Finalito\Calificaciones Universitarias\bin\Debug\ClasesCalificaciones.pdb
+C:\Users\Samuel\Desktop\Proyecto Finalito\Proyecto Finalito\Calificaciones Universitarias\obj\Debug\Calificaciones Universitarias.csprojAssemblyReference.cache
+C:\Users\Samuel\Desktop\Proyecto Finalito\Proyecto Finalito\Calificaciones Universitarias\obj\Debug\Calificaciones_Universitarias.Form1.resources
+C:\Users\Samuel\Desktop\Proyecto Finalito\Proyecto Finalito\Calificaciones Universitarias\obj\Debug\Calificaciones_Universitarias.Form2.resources
+C:\Users\Samuel\Desktop\Proyecto Finalito\Proyecto Finalito\Calificaciones Universitarias\obj\Debug\Calificaciones_Universitarias.Properties.Resources.resources
+C:\Users\Samuel\Desktop\Proyecto Finalito\Proyecto Finalito\Calificaciones Universitarias\obj\Debug\Calificaciones Universitarias.csproj.GenerateResource.cache
+C:\Users\Samuel\Desktop\Proyecto Finalito\Proyecto Finalito\Calificaciones Universitarias\obj\Debug\Calificaciones Universitarias.csproj.CoreCompileInputs.cache
+C:\Users\Samuel\Desktop\Proyecto Finalito\Proyecto Finalito\Calificaciones Universitarias\obj\Debug\Calificaciones Universitarias.csproj.CopyComplete
+C:\Users\Samuel\Desktop\Proyecto Finalito\Proyecto Finalito\Calificaciones Universitarias\obj\Debug\Calificaciones Universitarias.exe
+C:\Users\Samuel\Desktop\Proyecto Finalito\Proyecto Finalito\Calificaciones Universitarias\obj\Debug\Calificaciones Universitarias.pdb

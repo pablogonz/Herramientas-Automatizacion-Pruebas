@@ -1,0 +1,81 @@
+C:\Users\Samuel\Hokages\Los 5 Kage\ClasesCalificaciones\obj\Debug\netstandard2.0\ClasesCalificaciones.csprojAssemblyReference.cache
+C:\Users\Samuel\Hokages\Los 5 Kage\ClasesCalificaciones\obj\Debug\netstandard2.0\ClasesCalificaciones.AssemblyInfoInputs.cache
+C:\Users\Samuel\Hokages\Los 5 Kage\ClasesCalificaciones\obj\Debug\netstandard2.0\ClasesCalificaciones.AssemblyInfo.cs
+C:\Users\Samuel\Hokages\Los 5 Kage\ClasesCalificaciones\obj\Debug\netstandard2.0\ClasesCalificaciones.csproj.CoreCompileInputs.cache
+C:\Users\Samuel\Hokages\Los 5 Kage\ClasesCalificaciones\bin\Debug\netstandard2.0\ClasesCalificaciones.deps.json
+C:\Users\Samuel\Hokages\Los 5 Kage\ClasesCalificaciones\bin\Debug\netstandard2.0\ClasesCalificaciones.dll
+C:\Users\Samuel\Hokages\Los 5 Kage\ClasesCalificaciones\bin\Debug\netstandard2.0\ClasesCalificaciones.pdb
+C:\Users\Samuel\Hokages\Los 5 Kage\ClasesCalificaciones\obj\Debug\netstandard2.0\ClasesCalificaciones.dll
+C:\Users\Samuel\Hokages\Los 5 Kage\ClasesCalificaciones\obj\Debug\netstandard2.0\ClasesCalificaciones.pdb
+C:\Users\pablo\source\repos\Hokages-proyecto-construccion\Los 5 Kage\ClasesCalificaciones\bin\Debug\netstandard2.0\ClasesCalificaciones.deps.json
+C:\Users\pablo\source\repos\Hokages-proyecto-construccion\Los 5 Kage\ClasesCalificaciones\bin\Debug\netstandard2.0\ClasesCalificaciones.dll
+C:\Users\pablo\source\repos\Hokages-proyecto-construccion\Los 5 Kage\ClasesCalificaciones\bin\Debug\netstandard2.0\ClasesCalificaciones.pdb
+C:\Users\pablo\source\repos\Hokages-proyecto-construccion\Los 5 Kage\ClasesCalificaciones\obj\Debug\netstandard2.0\ClasesCalificaciones.csprojAssemblyReference.cache
+C:\Users\pablo\source\repos\Hokages-proyecto-construccion\Los 5 Kage\ClasesCalificaciones\obj\Debug\netstandard2.0\ClasesCalificaciones.AssemblyInfoInputs.cache
+C:\Users\pablo\source\repos\Hokages-proyecto-construccion\Los 5 Kage\ClasesCalificaciones\obj\Debug\netstandard2.0\ClasesCalificaciones.AssemblyInfo.cs
+C:\Users\pablo\source\repos\Hokages-proyecto-construccion\Los 5 Kage\ClasesCalificaciones\obj\Debug\netstandard2.0\ClasesCalificaciones.csproj.CoreCompileInputs.cache
+C:\Users\pablo\source\repos\Hokages-proyecto-construccion\Los 5 Kage\ClasesCalificaciones\obj\Debug\netstandard2.0\ClasesCalificaciones.dll
+C:\Users\pablo\source\repos\Hokages-proyecto-construccion\Los 5 Kage\ClasesCalificaciones\obj\Debug\netstandard2.0\ClasesCalificaciones.pdb
+C:\Users\Samuel\Desktop\Los 5 Kage\ClasesCalificaciones\bin\Debug\netstandard2.0\ClasesCalificaciones.deps.json
+C:\Users\Samuel\Desktop\Los 5 Kage\ClasesCalificaciones\bin\Debug\netstandard2.0\ClasesCalificaciones.dll
+C:\Users\Samuel\Desktop\Los 5 Kage\ClasesCalificaciones\bin\Debug\netstandard2.0\ClasesCalificaciones.pdb
+C:\Users\Samuel\Desktop\Los 5 Kage\ClasesCalificaciones\obj\Debug\netstandard2.0\ClasesCalificaciones.csprojAssemblyReference.cache
+C:\Users\Samuel\Desktop\Los 5 Kage\ClasesCalificaciones\obj\Debug\netstandard2.0\ClasesCalificaciones.AssemblyInfoInputs.cache
+C:\Users\Samuel\Desktop\Los 5 Kage\ClasesCalificaciones\obj\Debug\netstandard2.0\ClasesCalificaciones.AssemblyInfo.cs
+C:\Users\Samuel\Desktop\Los 5 Kage\ClasesCalificaciones\obj\Debug\netstandard2.0\ClasesCalificaciones.csproj.CoreCompileInputs.cache
+C:\Users\Samuel\Desktop\Los 5 Kage\ClasesCalificaciones\obj\Debug\netstandard2.0\ClasesCalificaciones.dll
+C:\Users\Samuel\Desktop\Los 5 Kage\ClasesCalificaciones\obj\Debug\netstandard2.0\ClasesCalificaciones.pdb
+C:\Users\pablo\source\repos\Los 5 Kage\ClasesCalificaciones\bin\Debug\netstandard2.0\ClasesCalificaciones.deps.json
+C:\Users\pablo\source\repos\Los 5 Kage\ClasesCalificaciones\bin\Debug\netstandard2.0\ClasesCalificaciones.dll
+C:\Users\pablo\source\repos\Los 5 Kage\ClasesCalificaciones\bin\Debug\netstandard2.0\ClasesCalificaciones.pdb
+C:\Users\pablo\source\repos\Los 5 Kage\ClasesCalificaciones\obj\Debug\netstandard2.0\ClasesCalificaciones.csprojAssemblyReference.cache
+C:\Users\pablo\source\repos\Los 5 Kage\ClasesCalificaciones\obj\Debug\netstandard2.0\ClasesCalificaciones.AssemblyInfoInputs.cache
+C:\Users\pablo\source\repos\Los 5 Kage\ClasesCalificaciones\obj\Debug\netstandard2.0\ClasesCalificaciones.AssemblyInfo.cs
+C:\Users\pablo\source\repos\Los 5 Kage\ClasesCalificaciones\obj\Debug\netstandard2.0\ClasesCalificaciones.csproj.CoreCompileInputs.cache
+C:\Users\pablo\source\repos\Los 5 Kage\ClasesCalificaciones\obj\Debug\netstandard2.0\ClasesCalificaciones.dll
+C:\Users\pablo\source\repos\Los 5 Kage\ClasesCalificaciones\obj\Debug\netstandard2.0\ClasesCalificaciones.pdb
+C:\Users\Samuel\Documents\Los 5 Kage version 2 pablo\ClasesCalificaciones\bin\Debug\netstandard2.0\ClasesCalificaciones.deps.json
+C:\Users\Samuel\Documents\Los 5 Kage version 2 pablo\ClasesCalificaciones\bin\Debug\netstandard2.0\ClasesCalificaciones.dll
+C:\Users\Samuel\Documents\Los 5 Kage version 2 pablo\ClasesCalificaciones\bin\Debug\netstandard2.0\ClasesCalificaciones.pdb
+C:\Users\Samuel\Documents\Los 5 Kage version 2 pablo\ClasesCalificaciones\obj\Debug\netstandard2.0\ClasesCalificaciones.csprojAssemblyReference.cache
+C:\Users\Samuel\Documents\Los 5 Kage version 2 pablo\ClasesCalificaciones\obj\Debug\netstandard2.0\ClasesCalificaciones.AssemblyInfoInputs.cache
+C:\Users\Samuel\Documents\Los 5 Kage version 2 pablo\ClasesCalificaciones\obj\Debug\netstandard2.0\ClasesCalificaciones.AssemblyInfo.cs
+C:\Users\Samuel\Documents\Los 5 Kage version 2 pablo\ClasesCalificaciones\obj\Debug\netstandard2.0\ClasesCalificaciones.csproj.CoreCompileInputs.cache
+C:\Users\Samuel\Documents\Los 5 Kage version 2 pablo\ClasesCalificaciones\obj\Debug\netstandard2.0\ClasesCalificaciones.dll
+C:\Users\Samuel\Documents\Los 5 Kage version 2 pablo\ClasesCalificaciones\obj\Debug\netstandard2.0\ClasesCalificaciones.pdb
+C:\Users\pjgon\Desktop\Proyecto Finalito\ClasesCalificaciones\bin\Debug\netstandard2.0\ClasesCalificaciones.deps.json
+C:\Users\pjgon\Desktop\Proyecto Finalito\ClasesCalificaciones\bin\Debug\netstandard2.0\ClasesCalificaciones.dll
+C:\Users\pjgon\Desktop\Proyecto Finalito\ClasesCalificaciones\bin\Debug\netstandard2.0\ClasesCalificaciones.pdb
+C:\Users\pjgon\Desktop\Proyecto Finalito\ClasesCalificaciones\obj\Debug\netstandard2.0\ClasesCalificaciones.csprojAssemblyReference.cache
+C:\Users\pjgon\Desktop\Proyecto Finalito\ClasesCalificaciones\obj\Debug\netstandard2.0\ClasesCalificaciones.AssemblyInfoInputs.cache
+C:\Users\pjgon\Desktop\Proyecto Finalito\ClasesCalificaciones\obj\Debug\netstandard2.0\ClasesCalificaciones.AssemblyInfo.cs
+C:\Users\pjgon\Desktop\Proyecto Finalito\ClasesCalificaciones\obj\Debug\netstandard2.0\ClasesCalificaciones.csproj.CoreCompileInputs.cache
+C:\Users\pjgon\Desktop\Proyecto Finalito\ClasesCalificaciones\obj\Debug\netstandard2.0\ClasesCalificaciones.dll
+C:\Users\pjgon\Desktop\Proyecto Finalito\ClasesCalificaciones\obj\Debug\netstandard2.0\ClasesCalificaciones.pdb
+C:\Users\Samuel\Downloads\Proyecto Finalito\ClasesCalificaciones\bin\Debug\netstandard2.0\ClasesCalificaciones.deps.json
+C:\Users\Samuel\Downloads\Proyecto Finalito\ClasesCalificaciones\bin\Debug\netstandard2.0\ClasesCalificaciones.dll
+C:\Users\Samuel\Downloads\Proyecto Finalito\ClasesCalificaciones\bin\Debug\netstandard2.0\ClasesCalificaciones.pdb
+C:\Users\Samuel\Downloads\Proyecto Finalito\ClasesCalificaciones\obj\Debug\netstandard2.0\ClasesCalificaciones.csprojAssemblyReference.cache
+C:\Users\Samuel\Downloads\Proyecto Finalito\ClasesCalificaciones\obj\Debug\netstandard2.0\ClasesCalificaciones.AssemblyInfoInputs.cache
+C:\Users\Samuel\Downloads\Proyecto Finalito\ClasesCalificaciones\obj\Debug\netstandard2.0\ClasesCalificaciones.AssemblyInfo.cs
+C:\Users\Samuel\Downloads\Proyecto Finalito\ClasesCalificaciones\obj\Debug\netstandard2.0\ClasesCalificaciones.csproj.CoreCompileInputs.cache
+C:\Users\Samuel\Downloads\Proyecto Finalito\ClasesCalificaciones\obj\Debug\netstandard2.0\ClasesCalificaciones.dll
+C:\Users\Samuel\Downloads\Proyecto Finalito\ClasesCalificaciones\obj\Debug\netstandard2.0\ClasesCalificaciones.pdb
+C:\Users\pablo\Desktop\Proyecto Finalito\Proyecto Finalito\ClasesCalificaciones\bin\Debug\netstandard2.0\ClasesCalificaciones.deps.json
+C:\Users\pablo\Desktop\Proyecto Finalito\Proyecto Finalito\ClasesCalificaciones\bin\Debug\netstandard2.0\ClasesCalificaciones.dll
+C:\Users\pablo\Desktop\Proyecto Finalito\Proyecto Finalito\ClasesCalificaciones\bin\Debug\netstandard2.0\ClasesCalificaciones.pdb
+C:\Users\pablo\Desktop\Proyecto Finalito\Proyecto Finalito\ClasesCalificaciones\obj\Debug\netstandard2.0\ClasesCalificaciones.csprojAssemblyReference.cache
+C:\Users\pablo\Desktop\Proyecto Finalito\Proyecto Finalito\ClasesCalificaciones\obj\Debug\netstandard2.0\ClasesCalificaciones.AssemblyInfoInputs.cache
+C:\Users\pablo\Desktop\Proyecto Finalito\Proyecto Finalito\ClasesCalificaciones\obj\Debug\netstandard2.0\ClasesCalificaciones.AssemblyInfo.cs
+C:\Users\pablo\Desktop\Proyecto Finalito\Proyecto Finalito\ClasesCalificaciones\obj\Debug\netstandard2.0\ClasesCalificaciones.csproj.CoreCompileInputs.cache
+C:\Users\pablo\Desktop\Proyecto Finalito\Proyecto Finalito\ClasesCalificaciones\obj\Debug\netstandard2.0\ClasesCalificaciones.dll
+C:\Users\pablo\Desktop\Proyecto Finalito\Proyecto Finalito\ClasesCalificaciones\obj\Debug\netstandard2.0\ClasesCalificaciones.pdb
+C:\Users\Samuel\Desktop\Proyecto Finalito\Proyecto Finalito\ClasesCalificaciones\bin\Debug\netstandard2.0\ClasesCalificaciones.deps.json
+C:\Users\Samuel\Desktop\Proyecto Finalito\Proyecto Finalito\ClasesCalificaciones\bin\Debug\netstandard2.0\ClasesCalificaciones.dll
+C:\Users\Samuel\Desktop\Proyecto Finalito\Proyecto Finalito\ClasesCalificaciones\bin\Debug\netstandard2.0\ClasesCalificaciones.pdb
+C:\Users\Samuel\Desktop\Proyecto Finalito\Proyecto Finalito\ClasesCalificaciones\obj\Debug\netstandard2.0\ClasesCalificaciones.csprojAssemblyReference.cache
+C:\Users\Samuel\Desktop\Proyecto Finalito\Proyecto Finalito\ClasesCalificaciones\obj\Debug\netstandard2.0\ClasesCalificaciones.AssemblyInfoInputs.cache
+C:\Users\Samuel\Desktop\Proyecto Finalito\Proyecto Finalito\ClasesCalificaciones\obj\Debug\netstandard2.0\ClasesCalificaciones.AssemblyInfo.cs
+C:\Users\Samuel\Desktop\Proyecto Finalito\Proyecto Finalito\ClasesCalificaciones\obj\Debug\netstandard2.0\ClasesCalificaciones.csproj.CoreCompileInputs.cache
+C:\Users\Samuel\Desktop\Proyecto Finalito\Proyecto Finalito\ClasesCalificaciones\obj\Debug\netstandard2.0\ClasesCalificaciones.dll
+C:\Users\Samuel\Desktop\Proyecto Finalito\Proyecto Finalito\ClasesCalificaciones\obj\Debug\netstandard2.0\ClasesCalificaciones.pdb
