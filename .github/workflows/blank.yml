@@ -37,7 +37,9 @@ jobs:
       run: dotnet restore
  
     - name: Build
+      working-directory: ./Calificaciones Unversitarias
       run: dotnet build --configuration Release --no-restore
  
     - name: Test
+      working-directory: ./Calificaciones UnversitariasTests
       run: dotnet test --no-restore
