@@ -1,17 +1,22 @@
 name: proyecto-finalito
 
-on: push
+on: [push]
 
 jobs:
- proyecto-finalito:
- name: Lint code base
- runs-on: ubtuntu-latest
- steps:
- - name: Checkout code
-  uses: actions/checkout@v2
-  
-  - name: Run proyecto-finalito
-    uses:  github/proyecto-finalito@v3
-    enc:
-      DEFAULT_BRANCH: main
-      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  build:
+    
+    runs-on: ubuntu-latest
+    
+    
+    steps:
+     - uses: actions/checkout@v1
+     - name: Setup .Net Core
+       uses: actions/setup-dotnet@1
+       with:
+        dotnet-version: 4.7.2
+     - name: Build with dotnet
+       working-directory: ./Calificaciones Universitarias
+       run: dotnet build --configuration Release
+     - name: Run Tests
+       working-directory: ./Calificaciones UnversitariasTests
+       run: dotnet test
