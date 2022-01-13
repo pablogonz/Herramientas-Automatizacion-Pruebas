@@ -34,6 +34,7 @@ jobs:
         dotnet-version: 5.0.x
  
     - name: Restore
+      working-directory: ./Calificaciones Unversitarias
       run: dotnet restore
  
     - name: Build
