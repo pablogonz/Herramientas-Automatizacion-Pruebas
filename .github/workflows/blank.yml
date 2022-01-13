@@ -11,9 +11,9 @@ jobs:
     steps:
      - uses: actions/checkout@v2
      - name: Setup .Net Core
-       uses: actions/setup-dotnet@
+       uses: actions/setup-dotnet@v1
        with:
-        dotnet-version: 4.7.2
+        dotnet-version: 3.1.x
      - name: Build with dotnet
        working-directory: ./Calificaciones Universitarias
        run: dotnet build --configuration Release
