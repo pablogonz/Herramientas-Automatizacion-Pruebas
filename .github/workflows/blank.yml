@@ -43,8 +43,7 @@ jobs:
         dotnet-version: 5.0.x
  
     - name: Restore
-      working-directory: ./Calificaciones Unversitarias
-      run: dotnet restore ./Calificaciones Universitarias
+      run: dotnet restore "./Calificaciones Universitarias/Calificaciones Universitarias.sln"
  
     - name: Build
       working-directory: ./Calificaciones Unversitarias
