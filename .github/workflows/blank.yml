@@ -46,6 +46,8 @@ jobs:
       run: cd $GITHUB_WORKSPACE
     - name: Run Tests
       run: vstest.console.exe "./Calificaciones UniversitariasTests/CalificacionTests.cs"
+    - name: Run Tests File 2
+      run: vstest.console.exe "./Calificaciones UniversitariasTests/ReporteWriteTests.cs"
       #run: vstest.console.exe "./Calificaciones Universitarias/Calificaciones Universitarias.sln"
     #- name: Setup .NET SDK
     #  uses: actions/setup-dotnet@v1.7.2
