@@ -36,19 +36,21 @@ jobs:
       
     - name: Restore NuGet Packages
       run: nuget restore "./Calificaciones Universitarias/Calificaciones Universitarias.sln"
+    - name: Build the Solution
+      run: msbuild "./Calificaciones Universitarias/Calificaciones Universitarias.sln"
  
-    - name: Setup .NET SDK
-      uses: actions/setup-dotnet@v1.7.2
-      with:
-        dotnet-version: 5.0.x
+    #- name: Setup .NET SDK
+    #  uses: actions/setup-dotnet@v1.7.2
+     # with:
+      #  dotnet-version: 5.0.x
  
-    - name: Restore
-      run: dotnet restore "./Calificaciones Universitarias/Calificaciones Universitarias.sln"
+    #- name: Restore
+#      run: dotnet restore "./Calificaciones Universitarias/Calificaciones Universitarias.sln"
  
-    - name: Build
-      working-directory: ./Calificaciones Unversitarias
-      run: dotnet build --configuration Release --no-restore
+ #   - name: Build
+  #    working-directory: ./Calificaciones Unversitarias
+   #   run: dotnet build --configuration Release --no-restore
  
-    - name: Test
-      working-directory: ./Calificaciones UnversitariasTests
-      run: dotnet test --no-restore
+    #- name: Test
+     # working-directory: ./Calificaciones UnversitariasTests
+      #run: dotnet test --no-restore
