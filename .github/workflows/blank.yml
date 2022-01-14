@@ -23,10 +23,19 @@ on: [push]
 jobs:
   build:
  
-    runs-on: ubuntu-latest
+    runs-on: [windows-latest]
  
     steps:
     - uses: actions/checkout@v2
+    
+    - name: Setup MSBuild
+      uses: microsoft/setup-msbuild@v1
+      
+    - name: Setup NuGet
+      uses:  NuGet/setup-nuget@04b0c2b8d1b97922f67eca497d7cf0bf17b8ffe1
+      
+    - name: Restore NuGet Packages
+      run: nuget restore ./Calificaciones Universitarias
  
     - name: Setup .NET SDK
       uses: actions/setup-dotnet@v1.7.2
@@ -35,7 +44,7 @@ jobs:
  
     - name: Restore
       working-directory: ./Calificaciones Unversitarias
-      run: dotnet restore
+      run: dotnet restore ./Calificaciones Universitarias
  
     - name: Build
       working-directory: ./Calificaciones Unversitarias
