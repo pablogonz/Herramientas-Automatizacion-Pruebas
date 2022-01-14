@@ -38,7 +38,14 @@ jobs:
       run: nuget restore "./Calificaciones Universitarias/Calificaciones Universitarias.sln"
     - name: Build the Solution
       run: msbuild "./Calificaciones Universitarias/Calificaciones Universitarias.sln"
- 
+      
+    - name: Setup VSTest
+      uses: darenm/Setup-VSTest@v1
+      
+    - name: Navigate to Workspace
+      run: cd $GITHUB_WORKSPACE
+    - name: Run Tests
+      run: vstest.console.exe "./Calificaciones Universitarias/Calificaciones Universitarias.sln"
     #- name: Setup .NET SDK
     #  uses: actions/setup-dotnet@v1.7.2
      # with:
